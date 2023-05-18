@@ -35,25 +35,6 @@ const blurHeader = () => {
 window.addEventListener('scroll', blurHeader)
 
 
-/*=============== EMAIL JS ===============*/
-/* TODO:Rever parte do código */
-const contactForm = document.getElementById('contact-form')
-const contactMessage = document.getElementById('contact-message')
-
-const sendEmail = (e) => {
-    e.preventDefault()
-    //Before proceeding, I recommend creating your EmailJs account(https://www.emailjs.com/)
-
-    // serviceID - templateID - #form - publicKey
-    emailjs.sendForm('service_9llk1ta', 'template_7nahmnb', '#contact-form', 'JQ4_9yI43wwT-MNGZ')
-        .then(() => {
-            contactMessage.textContent = 'Mensagem enviada com sucesso! ✅'
-        }, () => {
-            contactMessage.textContent = 'Mensagem não enviada (erro no servidor) ❌'
-        })
-
-}
-
 /*=============== SHOW SCROLL UP ===============*/
 const scrollUp = () => {
     const scrollUp = document.getElementById('scroll-up')
