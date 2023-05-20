@@ -127,7 +127,7 @@ svg {
 /* Navigation for mobile devices */
 
 @media screen and (max-width:1023px) {
-   
+
     .nav__menu {
         position: fixed;
         top: 0;
@@ -202,9 +202,11 @@ svg {
 .home__hand {
     display: flex;
 }
-.home__hand span:first-child{
+
+.home__hand span:first-child {
     padding-right: 5px;
 }
+
 .home__hand span:last-child {
     padding-left: 10px;
 }
@@ -252,7 +254,7 @@ svg {
 .background__image {
     height: 100%;
     overflow: hidden;
-    background: radial-gradient(ellipse at bottom, #231b35 0%, #090a0f 100%);
+    background: radial-gradient(ellipse at bottom, #362953 0%, #090a0f 100%);
 
 }
 
@@ -1210,11 +1212,12 @@ svg {
         justify-content: center;
     }
 }
-@media screen and (max-width:768px){
+
+@media screen and (max-width:768px) {
     .home__hand {
-            display: flex;
-            justify-content: center;
-        }
+        display: flex;
+        justify-content: center;
+    }
 }
 
 @media screen and (min-width:768px) {
@@ -1234,7 +1237,7 @@ svg {
         text-align: initial;
 
     }
-       
+
 
 
     .home__social {
