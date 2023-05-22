@@ -1,7 +1,7 @@
 > Status: versão 1.0
 # Projeto Frontend
 
-[![Texto alternativo](assets/print-do-portfolio.png)](assets/video-apresentacao.mp4)
+
 
 
 
