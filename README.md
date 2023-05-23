@@ -1,31 +1,26 @@
 > Status: versão 1.0
 
-# Projeto Frontend
+<h1 align='center'> Portfólio </h1>
 
 https://github.com/lsmachado4/Portifolio/assets/91704215/911e9a19-4247-407a-91c4-ebf2304be862
 
 
 
-
-
-
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
+- Git & Github
 
-## Requisitos
-[Liste os requisitos funcionais e não funcionais do projeto]
+## 💻 Projeto
 
-## Deploy
-O projeto está implantado e pode ser acessado [aqui](https://lucasmachado-portifolio-dev.surge.sh/).
+Esse portfólio é o resultado de um projeto de estudo de programação com o objetivo de apresentar minha experiência na área da tecnologia. Além de demonstrar o aprimoramento das minhas habilidades.  
 
-## Instalação
-1. Clone o repositório: `git clone [URL do repositório]`
-2. Navegue até o diretório do projeto: `cd [diretório do projeto]`
+## ☁️ Deploy
+O projeto está disponível e pode ser acessado [aqui](https://lucasmachado-portifolio-dev.surge.sh/).
 
-## Uso
-1. Abra o arquivo `index.html` em qualquer navegador web.
-2. Interaja com a aplicação para [descrever a finalidade da aplicação].
+## 🔖 Layout
 
-## Estrutura de Arquivos
+O projeto teve como principal referência o layout do [Bedimcode](https://github.com/bedimcode/responsive-portfolio-website-patrick
+).
+
