@@ -11,7 +11,9 @@ https://github.com/lsmachado4/Portifolio/assets/91704215/911e9a19-4247-407a-91c4
 - CSS3
 - JavaScript
 - Git & Github
-
+- Scroll Reveal Animation
+- API WhatsApp
+- API FormSubmit(Email)
 ## 💻 Projeto
 
 Esse portfólio é o resultado de um projeto de estudo de programação com o objetivo de apresentar minha experiência na área da tecnologia. Além de demonstrar o aprimoramento das minhas habilidades.  
