@@ -24,3 +24,6 @@ O projeto está disponível e pode ser acessado [aqui](https://lucasmachado-port
 O projeto teve como principal referência o layout do [Bedimcode](https://github.com/bedimcode/responsive-portfolio-website-patrick
 ).
 
+---
+
+Desenvolvido por Lucas Machado 
