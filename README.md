@@ -26,4 +26,4 @@ O projeto teve como principal referência o layout do [Bedimcode](https://github
 
 ---
 
-Desenvolvido por Lucas Machado 
+Desenvolvido por Lucas Machado.
